@@ -1,1 +1,1 @@
-Falta hacer toda la parte del API, y darle una funcion extra ademas de las consultas al programa. 
+Falta agregar metodo de seguridad para que el DELETE, PUT o POST no sean accesibles y ver de agregar alguna función mas al programa
